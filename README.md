@@ -3,8 +3,7 @@
 Software Developer with a strong interest in building reliable, maintainable, and scalable applications.
 I focus on writing clean code, designing clear application structures, and delivering solutions that are easy to understand and extend.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zarr20&theme=github-compact)
-![Metrics](https://metrics.lecoq.io/zarr20)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zarr20&theme=github-compact&from=2021-01-01)
 
 ---
 
